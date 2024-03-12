@@ -1,0 +1,12 @@
+# This is a build config file, much like a `package.json` in Node.js.
+
+[package]
+name = "hello-rust"
+# Version of your project
+version = "0.1.0"
+# Version of Rust to use
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
